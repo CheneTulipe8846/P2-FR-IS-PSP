@@ -7,7 +7,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dude,[SP]that[SP]crystal[SP]skull's[SP]still[SP]sitting[SP]at\nthe[SP]Scorpio[SP]Temple[SP]in[SP]Yumezaki.[SP]Let's[SP]hurry\nup[SP]and[SP]go[SP]get[SP]it.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mec, le crâne de cristal est toujours au Temple du Scorpion\nà Yumezaki. Dépechôns nous d'aller le chercher."
+    "texte_fr": "Mec, le crâne de cristal est toujours au Temple du Scorpion\nà Yumezaki. Dépechôns nous d'y aller."
   },
   {
     "id": 1,
@@ -17,7 +17,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Would[SP]it[SP]be[SP]wrong[SP]to[SP]take[SP]one[SP]of[SP]this[SP]crystal\nskull's[SP]teeth...?[1205][U+000F][SP]Think[SP]Miyabi[SP]would[SP]even\nwant[SP]a[SP]crystal[SP]gem?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Serait-il mal de premdre une des dents du crâne de cristal...?\n[1205][U+000F] Tu penses que Miyabi aimerait même une gemme de cristal?"
+    "texte_fr": "Ce serait mal de prendre une dent du crâne de cristal...?\n[1205][U+000F] Tu penses que Miyabi aimerait même une gemme?"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP][U+1114],[SP]have[SP]you[SP]noticed?[1205][U+000F][SP]Everyone[SP]used\nto[SP]have[SP]a[SP]different[SP]theory[SP]about[SP]the[SP]end[SP]of[SP]the\nworld,[SP]but[SP]now[SP]they[SP]all[SP]say[SP]the[SP]same[SP]thing.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hé [U+1114], as-tu remarqué?[1205][U+000F] Tout le monde avait une théorie\ndifférente à propos de la fin du monde, maintenant ils disent tous la même\n chose."
+    "texte_fr": "Hé [U+1114], t'as remarqué?[1205][U+000F] Tout le monde avait une théorie\ndifférente sur la fin du monde, maintenant ils disent tous la même\n chose."
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "If[SP]the[SP]Earth[SP]stops[SP]rotating...[1205][U+000F][SP]Could[SP]we[SP]save\nourselves[SP]by[SP]jumping[SP]at[SP]just[SP]the[SP]right[SP]moment?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Si la terre s'arrête de tourner...[1205][U+000F] Pouvons-nous nous sauver en\nsautant au bon moment?"
+    "texte_fr": "Si la terre s'arrête de tourner...[1205][U+000F] On peut se sauver en\nsautant au bon moment?"
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "If[SP]we're[SP]here[SP]in[SP]Kounan,[SP]does[SP]that[SP]mean[SP]we're\ngoing[SP]to[SP]Taurus[SP]Temple?",
     "nom_fr": "Ginko",
-    "texte_fr": "Si on est là à Kounan, est-ce que ca veut dire qu'on va aller au Temple\ndu Taureau?"
+    "texte_fr": "On est à Kounan, ca veut dire qu'on va aller au Temple\ndu Taureau?"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP][U+1113]...[SP]Are[SP]you[SP]still[SP]uneasy[SP]about\nwhat[SP]happened[SP]at[SP]Taurus[SP]Temple?",
     "nom_fr": "Ginko",
-    "texte_fr": "Hé, [U+1113]... Tu te sens toujours mal à propos de ce qui\ns'est passé au Temple du Taureau?"
+    "texte_fr": "Hé, [U+1113]... Tu te sens encore mal pour ce qui\ns'est passé au Temple du Taureau?"
   },
   {
     "id": 6,
@@ -77,7 +77,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Everyone's[SP]saying[SP]the[SP]Earth's[SP]going[SP]to[SP]stop\nspinning![SP]If[SP]that[SP]happens,[SP]won't[SP]everything\non[SP]the[SP]planet[SP]be[SP]blasted[SP]away!?",
     "nom_fr": "Ginko",
-    "texte_fr": "Tout le monde raconte que la Terre va s'arrêter de tourner!\nSi cela arrive, tout ce qui est sur la planète sera anéanti,\nnon?!"
+    "texte_fr": "Tout le monde dit que la Terre va s'arrêter de tourner!\nSi ca arrive, tout sera anéanti,\nnon?!"
   },
   {
     "id": 8,
@@ -87,7 +87,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Man,[SP]that[SP]shadow[SP]of[SP][U+1113]-kun[SP]at[SP]the\nCaracol[SP]was[SP]scary.[1205][U+000F][SP]If[SP]he's[SP]walking[SP]around,[SP]you\ncan[SP]count[SP]on[SP]more[SP]bad[SP]rumors[SP]about[SP]you...",
     "nom_fr": "Maya",
-    "texte_fr": "L'ombre de [U+1113]-kun au Caracol était flippant.\n[1205][U+000F] Si il se promène dehors, tu peux être sûr que d'autres mauvaises\nrumeurs à propos de toi vont surgir..."
+    "texte_fr": "L'ombre de [U+1113]-kun au Caracol était flippant.\n[1205][U+000F] S'il se promène dehors, plein d'autres mauvaises\nrumeurs surtoi vont surgir..."
   },
   {
     "id": 9,
@@ -107,7 +107,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP]fire[SP]crystal[SP]skull...[SP]This[SP]is[SP]the[SP]second\ntime[SP]we've[SP]had[SP]this[SP]one.[1205][U+000F][SP]It's[SP]the[SP]one[SP]my[SP]Shadow\ntook[SP]off[SP]with...[SP]I[SP]still[SP]feel[SP]bad[SP]about[SP]that.",
     "nom_fr": "Maya",
-    "texte_fr": "Le crâne de cristal de feu... C'est la deuxième fois qu'on la eu\n[1205][U+000F] C'est celui que mon ombre a pris avec elle... Je me sens toujours mal à\npropos de ca."
+    "texte_fr": "Le crâne de cristal de feu... C'est la deuxième fois qu'on la eu\n[1205][U+000F] C'est celui que mon ombre a emporté... Je me sens toujours mal à\npour ca."
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Eikichi-kun...[SP]Are[SP]you[SP]serious?[SP]I[SP]really[SP]don't\nthink[SP]jumping[SP]will[SP]save[SP]us.",
     "nom_fr": "Maya",
-    "texte_fr": "Eikichi-kun... Tu es sérieux? Je pense vraiment pas que sautee va\nnous sauver."
+    "texte_fr": "Eikichi-kun... T'es sérieux? Sauter ne va pas nous\n sauver du tou."
   },
   {
     "id": 12,
@@ -127,7 +127,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Aquarius[SP]Temple...[1205][U+000F][SP]The[SP]wind[SP]crystal[SP]skull...[1205][U+000F]\nThe[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance[SP]stole[SP]it[SP]and[SP]the\nheaven[SP]crystal[SP]skull.[SP]They'll[SP]be[SP]waiting...",
     "nom_fr": "Jun",
-    "texte_fr": "Le Temple du Verseau...[1205][U+000F] Le crâne de cristal du vent...[1205][U+000F]L'ordre\nde la lance bénite l'a volé et le crâne de cristal du paradis. Ils\nattendront.."
+    "texte_fr": "Le Temple du Verseau...[1205][U+000F] Le crâne de cristal du vent...[1205][U+000F]L'ordre\nde la lance bénite l'a volé, ainsi que celui du paradis. Ils\nattendront.."
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "nom_orig": "Jun",
     "texte_orig": "We[SP]already[SP]have[SP]the[SP]wind[SP]crystal[SP]skull[SP]from\nAquarius[SP]Temple.[1205][U+000F][SP]We[SP]need[SP]to[SP]hurry[SP]and[SP]gather\nthe[SP]remaining[SP]skulls[SP]as[SP]well...",
     "nom_fr": "Jun",
-    "texte_fr": "On a eu le crâne de cristal du vent au Temple du Verseau>\n[1205][U+000F] On doit se dépêcher et récupérer les crânes manquant aussi..."
+    "texte_fr": "On a eu le crâne de cristal du vent au Temple du Verseau>\n[1205][U+000F] On doit se dépêcher et récupérer les autres crânes..."
   },
   {
     "id": 14,
@@ -147,7 +147,7 @@
     "nom_orig": "Jun",
     "texte_orig": "There's[SP]a[SP]line[SP]in[SP]the[SP]Oracle[SP]about[SP]the[SP]star\ncoming[SP]to[SP]a[SP]halt...[1205][U+000F][SP]I[SP]think[SP]that's[SP]why[SP]all[SP]the\ndifferent[SP]rumors[SP]were[SP]whittled[SP]down[SP]to[SP]one.",
     "nom_fr": "Jun",
-    "texte_fr": "Il y'a une ligne dans l'oracle à propos de l'étoile qui s'arrêtera...\n[1205][U+000F] Je pense que c'est pour ça que toutes les rumeurs différentes se sont\nréduit à une seule."
+    "texte_fr": "L'oracle parle d'une étoile qui s'arrêtera...\n[1205][U+000F] Je pense que c'est pour ça que toutes les rumeurs se sont\nréduit à une seule."
   },
   {
     "id": 15,
@@ -157,7 +157,7 @@
     "nom_orig": "Jun",
     "texte_orig": "If[SP]the[SP]Earth[SP]were[SP]to[SP]stop[SP]spinning,[SP]everything\non[SP]it[SP]would[SP]most[SP]likely[SP]be[SP]blasted[SP]away[SP]at\nincredible[SP]velocity.",
     "nom_fr": "Jun",
-    "texte_fr": "Si la Terre s'arrêtait de tourner, tout ce qu'il y'a dessus va très\nprobablement être éjecté à une vélocité incroyable."
+    "texte_fr": "Si la Terre s'arrêtait de tourner, tout serait probablement\néjecté à une vélocité incroyable."
   },
   {
     "id": 16,
@@ -177,7 +177,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Welcome.[1205][U+000F][SP]It[SP]is[SP]my[SP]responsibility[SP]to[SP]clear[SP]the\nmurk[SP]from[SP]people's[SP]future.",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Bienvenue. [1205][U+000F] C'est ma responsabilité de dissiper le brouillard du\nfutur des gens."
+    "texte_fr": "Bienvenue. [1205][U+000F] C'est mon rôle de dissiper le brouillard du\nfutur."
   },
   {
     "id": 18,
@@ -187,7 +187,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "But[SP]that[SP]responsibility[SP]will[SP]be[SP]lifted[SP]should\nour[SP]evolution[SP]erase[SP]such[SP]troubles.[1205][U+000F][SP]Speak[SP]your\nmind[SP]freely[SP]until[SP]the[SP]end[SP]draws[SP]nigh.",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Mais cette responsabilité sera levée si notre évolution efface\nde tels problèmes.[1205][U+000F] Exprime-toi librement jusqu'à ce que la fin\n approche."
+    "texte_fr": "Mais cette responsabilité disparaîtra si notre évolution efface\nces problèmes.[1205][U+000F] Exprime-toi librement jusqu'à la fin."
   },
   {
     "id": 19,
@@ -197,7 +197,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "For[SP]what[SP]have[SP]you[SP]sought[SP]me[SP]out[SP]today?\n[U+1208][U+0005][U+1210][U+0475]Ask[SP]about[SP]rumors\nHear[SP]your[SP]fortune\nTalk[SP]to[SP]the[SP]Sumaru[SP]Genie\nNever[SP]mind\nLeave\n[U+1109][E2][E3][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nWhat[SP]do[SP]you[SP]propose[SP]we[SP]discuss?\n[U+1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]fortune[SP]telling\n[U+1109][E2][E3][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nThen[SP]I[SP]shall[SP]explain[SP]what[SP]I[SP]do[SP]here.\n[E1][E2][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nAsk[SP]to[SP][1432][NULL][NULL][0014]Hear[SP]your[SP]fortune[1432][NULL][NULL][0014][SP]and[SP]I[SP]will[SP]take\na[SP]glimpse[SP]into[SP]your[SP]future.\n[E1][E2][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nThe[SP]reading[SP]may[SP]result[SP]in[SP]good[SP]fortune[SP]or\nbad[SP]fortune[SP]for[SP]you.\n[E1][E2][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nI[SP]cannot[SP]peer[SP]into[SP]your[SP]future[SP]again[SP]until\nthe[SP]effect[SP]of[SP]the[SP]previous[SP]reading[SP]wears[SP]off.\n[E1][E2][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nIt[SP]is[SP]every[SP]man's[SP]decision[SP]to[SP]ask[SP]after[SP]his\nfuture.[SP]And[SP]I[SP]am[SP]not[SP]responsible[SP]for[SP]the\nvisions[SP]I[SP]see.",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Pourquoi m’as-tu cherché aujourd’hui?\n[U+1208][U+0005][U+1210][U+0475]Demande à propos de rumeurs\nécoute ta destinée\nParle avec la Génie Sumaru\nLaisse tomber\nPars\n[U+1109][E2][E3][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nDe quoi proposes-tu que nous discutions?\n[U+1208][0002]Discuter un peu\nDemander à propos de la voyance\n[U+1109][E2][E3][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nJe vais t'expliquer ce que je fait ici.\n\"Génie Sumaru, colporteuse de rumeurs\nDemande [1432][NULL][NULL][0014]d'écouter ta fortune[1432][NULL][NULL][0014] et je vais jeter un\ncoup d'oeil à ton avenir.\n[E1][E2][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nLa consultation peut annoncer de la chance ou de la malchance\npour toi.\n[E1][E2][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nJe ne peux plus jeter un coup d'oeil à ton avenir tant\n que les effets de la lecture précédente ne sont pas dissipés.\n[E1][E2][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nC'est la décision de chaque personne de demander\nà propos de son futur. Et je ne suis pas responsable pour les\nvisions que je vois."
+    "texte_fr": "Que me veux-tu aujourd’hui?\n[U+1208][U+0005][U+1210][U+0475]Parle-moi des rumeurs\nécoute ta destinée\nParle avec la Génie Sumaru\nLaisse tomber\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nDe quoi veux-tu parler?\n[U+1208][0002]Discuter un peu\nParle-moi de la voyance\n[U+1109][E2][E3][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nJe vais t'expliquer mon rôle ici.\n[E1][E2][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nDemande [1432][NULL][NULL][0014]d'écouter ton destin[1432][NULL][NULL][0014] et je vais y jeter un\ncoup d'oeil.\n[E1][E2][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nLa consultation peut te prédire chance ou malchance\npour toi.\n[E1][E2][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nJe ne peux plus lire ton avenir tant\n que la lecture précédente ne s'est pas dissipée.\n[E1][E2][E4][NULL][NULL]\"Génie Sumaru, colporteuse de rumeurs\nChacun décide de demander son avenir\nJe ne suis pas responsable des les visions que je percois."
   },
   {
     "id": 20,
@@ -1067,7 +1067,7 @@
     "nom_orig": "Young[SP]man",
     "texte_orig": "Inertia[SP]will[SP]blast[SP]everything[SP]away.[1205][U+000F][SP]The[SP]oceans,\nthe[SP]mountains,[SP]even[SP]the[SP]air.[1205][U+000F][SP]Yeah,[SP]that'd\ndefinitely[SP]qualify[SP]as[SP][1432][NULL][NULL][0014]annihilation.[1432][NULL][NULL][0014]",
     "nom_fr": "Jeunne Homme",
-    "texte_fr": "LInertie projettera tout au loin.[1205][U+000F] Les océans,\nles montagnes, et même l'air.[1205][U+000F] Ouais, ce serait clairement\nun [1432][NULL][NULL][0014]anéantissement[1432][NULL][NULL][0014]".
+    "texte_fr": "LInertie projettera tout au loin.[1205][U+000F] Les océans,\nles montagnes, et même l'air.[1205][U+000F] Ouais, ce serait clairement\nun [1432][NULL][NULL][0014]anéantissement[1432][NULL][NULL][0014]"
   },
   {
     "id": 107,
