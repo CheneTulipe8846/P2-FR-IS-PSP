@@ -7,7 +7,7 @@
     "nom_orig": "Trish",
     "texte_orig": "You[SP]came[SP]for[SP]no[SP]reason?[1205][U+000A][SP]No[SP]browsing[SP]allowed!\nGet[SP]out!",
     "nom_fr": "Trish",
-    "texte_fr": "T'es venu sans raison?[1205][U+000A] Pas le droit de fouiner!\nDehors!"
+    "texte_fr": "T'es venu sans raison?[1205][U+000A] Arrête de fouiner!\nDehors!"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Trish",
     "texte_orig": "Bring[SP]money[SP]next[SP]time![SP]Even[SP]negotiations[SP]in\nhell[SP]need[SP]money[SP]to[SP]grease[SP]the[SP]skids![SP]If[SP]you're\ntoo[SP]poor,[SP]then[SP]too[SP]bad!",
     "nom_fr": "Trish",
-    "texte_fr": "Ramènes du fric la prochaine fois! Même les négociations\nen enfer ont besoin d'argent pour bien dérouler! Si t'es si\npauvre, tant pis pour toi!"
+    "texte_fr": "Ramène du fric! Même les négociations en enfer\n ont en besoin pour bien dérouler! Si t'es si\npauvre, tant pis pour toi!"
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "nom_orig": "Trish",
     "texte_orig": "Come[SP]with[SP]a[SP]few[SP]good[SP]wounds[SP]next[SP]time.[SP]Oh,[SP]but\ndon't[SP]die.[SP]Come[SP]wounded,[SP]but[SP]not[SP]dying!",
     "nom_fr": "Trish",
-    "texte_fr": "La prochaine fois que tu viens soit bien amoché.\nMais ne meurs pas. Bien amoché, pas mort!"
+    "texte_fr": "La prochaine fois soit bien amoché.\nMais ne meurs pas. Bien amoché, pas mort!"
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Don't[SP]the[SP]rates[SP]here[SP]seem[SP]higher[SP]than[SP]other\nstores?[SP]She's[SP]awful[SP]greedy[SP]for[SP]someone[SP]so[SP]cute.",
     "nom_fr": "Ginko",
-    "texte_fr": "Les prix sont chers ici comparé aux autres, non?\nElle est super cupide pour une fée mignonne"
+    "texte_fr": "Ses prix sont chers comparé aux autres, non?\nElle est super cupide pour une fée mignonne"
   },
   {
     "id": 9,
@@ -107,7 +107,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP]pretty[SP]expensive,[SP]but[SP]it's[SP]good[SP]to[SP]know\nshe's[SP]there[SP]in[SP]a[SP]pinch.",
     "nom_fr": "Maya",
-    "texte_fr": "C'est cher, mais au moins elle\nest là au cas où on aurait besoin d'elle."
+    "texte_fr": "C'est cher, mais elle est là au cas où\n on aurait besoin d'elle."
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "???",
     "texte_orig": "Then[SP]I[SP]better[SP]introduce[SP]myself.[1205][U+000A][SP]Name's[SP]Trish.[1205][U+000F]\nThis[SP]is[SP]my[SP]fountain[SP]of[SP]healing.[1205][U+000A][SP]I'll[SP]treat\nyour[SP]wounds!",
     "nom_fr": "???",
-    "texte_fr": "Je devrais me présenter.[1205][U+000A] Je m'appelle Trish.[1205][U+000F]\nCa c'est ma fontaine de guérison.[1205][U+000A] Laisse moi m'occuper de tes blessures!"
+    "texte_fr": "Je me présente.[1205][U+000A] Mon nom est Trish.[1205][U+000F]\nCa c'est ma fontaine de guérison.[1205][U+000A] Je m'occupe de tes blessures!"
   },
   {
     "id": 18,
@@ -187,7 +187,7 @@
     "nom_orig": "Trish",
     "texte_orig": "Not[SP]for[SP]free,[SP]of[SP]course.[1205][U+000F][SP]This[SP]world[SP]runs[SP]on\ngive-and-take![1205][U+000F][SP]Give[SP]me[SP]money[SP]and[SP]I'll[SP]take\naway[SP]your[SP]pain!",
     "nom_fr": "Trish",
-    "texte_fr": "C'est pas gratuit bien sûr.[1205][U+000F] Ici c'est\ndonnant-donnant![1205][U+000F] Donne moi un peu d'argent et je m'occupe de toi!"
+    "texte_fr": "C'est pas gratuit bien sûr.[1205][U+000F] Ici c'est\ndonnant-donnant![1205][U+000F] Donne moi de l'argent et je m'occupe de toi!"
   },
   {
     "id": 19,
@@ -217,7 +217,7 @@
     "nom_orig": "Trish",
     "texte_orig": "Alriiiight![SP]Pain,[SP]pain,[SP]go[SP]a...[SP]Hey![SP]You're\nall[SP]healthy![SP]I[SP]can't[SP]take[SP]your[SP]money!",
     "nom_fr": "Trish",
-    "texte_fr": "Douleur, douleur, va-t... Hein? Vous êtes tous\n guéris! Je peux pas prendre votre argent!"
+    "texte_fr": "Douleur, douleur, va... Vous êtes tous\n guéris! Je peux pas prendre votre fric!"
   },
   {
     "id": 22,
@@ -237,7 +237,7 @@
     "nom_orig": "Trish",
     "texte_orig": "Yeah,[SP]that's[SP][U+120E][NULL][SP]yen.\nYou[SP]gonna[SP]pay[SP]up?\n[U+1208][0002]Yes\nNo\n[U+1109][E2][E3][E4][NULL][NULL]\"Trish\nDon't[SP]be[SP]a[SP]skinflint![SP]And[SP]don't[SP]blame[SP]me[SP]if\nyou[SP]wind[SP]up[SP]dead![1205][U+000F][SP]In[SP]fact,[SP]I[SP]hope[SP]you[SP]die,\nyou[SP]mangy,[SP]dirty[SP]bum!",
     "nom_fr": "Trish",
-    "texte_fr": "Ca fait [U+120E][NULL]yen.\nTu comptes payer?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Trish\nFait pas le radin! Et ne me remets pas la faute dessus\nsi tu meurs![1205][U+000F] Franchement J'espère que tu crèves sale\nclodo pouilleux!"
+    "texte_fr": "Ca fait [U+120E][NULL]yen.\nTu payes?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Trish\nSois pas radin! Ne me remets pas la faute dessus\nsi tu meurs![1205][U+000F] Franchement J'espère que tu crèves sale\nclodo pouilleux!"
   },
   {
     "id": 24,
